@@ -17,7 +17,7 @@
 
 - 🎓 Final-year **software engneering** student at the University of Dodoma
 - 🚀 Building scalable web and mobile applications for Tanzania's growing digital economy
-- 🌍 Based in **Dar es Salaam, Tanzania**
+- 🌍 Based in **DODOMA, Tanzania**
 - 💡 Passionate about **cloud architecture**, **microservices**, and **open-source**
 - 📺 Creating Swahili tech content on YouTube
 - 🔭 Currently working on: **BodaBoda ride-sharing app** & **ERP/POS system**
@@ -78,10 +78,10 @@
 
 I'm open to **freelance projects**, **collaborations**, and **entry-level roles** in full-stack or mobile development.
 
-> 📧 Reach me via GitHub or LinkedIn
+> 📧 Reach me via GitHub 
 
 ---
 
 <div align="center">
-<sub>Made with ❤️ from Dar es Salaam, Tanzania 🇹🇿</sub>
+<sub>Made with ❤️ from DODOMA, Tanzania 🇹🇿</sub>
 </div>
