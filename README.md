@@ -15,7 +15,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 Final-year **software engneering** student at the University of Dodoma
+- A fresh software engneering graduate from the university of dodoma
 - 🚀 Building scalable web and mobile applications for Tanzania's growing digital economy
 - 🌍 Based in **DODOMA, Tanzania**
 - 💡 Passionate about **cloud architecture**, **microservices**, and **open-source**
