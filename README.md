@@ -19,8 +19,8 @@
 - 🚀 Building scalable web and mobile applications for Tanzania's growing digital economy
 - 🌍 Based in **DODOMA, Tanzania**
 - 💡 Passionate about **cloud architecture**, **microservices**, and **open-source**
-- 📺 Creating Swahili tech content on YouTube
-- 🔭 Currently working on: **BodaBoda ride-sharing app** & **ERP/POS system**
+-
+- 🔭 Currently working on: **MULTTERNANT E COMMERCE WEB APPLICATION*
 
 ---
 
@@ -29,7 +29,6 @@
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -39,7 +38,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 
 **Database & Cloud**
 
