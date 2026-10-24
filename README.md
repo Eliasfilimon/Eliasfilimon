@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey, I'm Elias Filimon 👋
+# Hey, I'm Elias Filimon 
 
-**Full-Stack Software Developer · Tanzania 🇹🇿**
+**Full-Stack Software Developer · Tanzania **
 
 *Building real-world software solutions for the African market*
 
@@ -13,18 +13,18 @@
 
 ---
 
-## 🙋‍♂️ About Me
+##            About Me
 
 - A fresh software engneering graduate from the university of dodoma
-- 🚀 Building scalable web and mobile applications for Tanzania's growing digital economy
-- 🌍 Based in **DODOMA, Tanzania**
-- 💡 Passionate about **cloud architecture**, **microservices**, and **open-source**
+-  Building scalable web and mobile applications for Tanzania's growing digital economy
+- Based in **DODOMA, Tanzania**
+-  Passionate about **cloud architecture**, **microservices**, and **open-source**
 -
-- 🔭 Currently working on: **MULTTERNANT E COMMERCE WEB APPLICATION*
+-  Currently working on: **MULTTERNANT E COMMERCE WEB APPLICATION*
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Frontend**
 
@@ -49,19 +49,19 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| [🏍️ BodaBoda App](https://github.com/Eliasfilimon/bodaboda-application) | Real-time motorcycle taxi ride-sharing platform for Dodoma | React, Node.js, PostgreSQL, Docker |
-| [🛒 CommerceFlow](https://github.com/Eliasfilimon/commerceflow) | Modern e-commerce platform for electronics | React, TypeScript, Tailwind CSS |
-| [🖥️ POS System](https://github.com/Eliasfilimon/possystem) | Full ERP/POS with accounting & fleet management | Java, Spring Boot, PostgreSQL |
-| [📝 U-Notes](https://github.com/Eliasfilimon/u-notes) | Note-taking app for university students | React |
-| [☁️ Secure Cloud Storage](https://github.com/Eliasfilimon/secure-self-hosted-cloud-storage) | Self-hosted cloud storage for academic institutions | MinIO, Node.js |
+| [ BodaBoda App](https://github.com/Eliasfilimon/bodaboda-application) | Real-time motorcycle taxi ride-sharing platform for Dodoma | React, Node.js, PostgreSQL, Docker |
+| [ CommerceFlow](https://github.com/Eliasfilimon/commerceflow) | Modern e-commerce platform for electronics | React, TypeScript, Tailwind CSS |
+| [ POS System](https://github.com/Eliasfilimon/possystem) | Full ERP/POS with accounting & fleet management | Java, Spring Boot, PostgreSQL |
+| [U-Notes](https://github.com/Eliasfilimon/u-notes) | Note-taking app for university students | React |
+| [ Secure Cloud Storage](https://github.com/Eliasfilimon/secure-self-hosted-cloud-storage) | Self-hosted cloud storage for academic institutions | MinIO, Node.js |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -73,11 +73,11 @@
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 I'm open to **freelance projects**, **collaborations**, and **entry-level roles** in full-stack or mobile development.
 
-> 📧 Reach me via GitHub 
+>  Reach me via GitHub 
 
 ---
 
